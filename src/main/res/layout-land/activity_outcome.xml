@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hoontaryi.guessanime.OutcomeActivity"
+    android:background="@drawable/idolmaster">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:padding="16dp"
+        android:textColor="#000"
+        android:fontFamily="casual"
+        android:layout_margin="16dp"
+        android:id="@+id/grade"
+        android:text="Congratulations"/>
+
+    <TextView
+        android:layout_below="@+id/grade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:padding="16dp"
+        android:textColor="#E74C3C"
+        android:layout_margin="16dp"
+        android:fontFamily="Bold"
+        android:id="@+id/outOf"
+        android:text="You scored 8 out of 9"/>
+
+    <Button
+        android:id="@+id/retry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#E74C3C"
+        android:fontFamily="casual"
+        android:padding="8dp"
+        android:text="Retry Quiz"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_marginRight="92dp"
+        android:layout_marginTop="23dp"
+        android:layout_marginEnd="92dp"
+        android:layout_below="@+id/outOf"
+        android:layout_toLeftOf="@+id/rmenu"
+        android:layout_toStartOf="@+id/rmenu" />
+    <Button
+        android:id="@+id/rmenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#E74C3C"
+        android:fontFamily="casual"
+        android:padding="8dp"
+        android:text="Return Menu"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_alignBottom="@+id/retry"
+        android:layout_alignRight="@+id/outOf"
+        android:layout_alignEnd="@+id/outOf"
+        android:layout_marginRight="79dp"
+        android:layout_marginEnd="79dp" />
+
+
+</RelativeLayout>
