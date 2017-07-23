@@ -1,0 +1,7 @@
+#Sun Jul 23 15:58:34 SGT 2017
+base.0=C\:\\Users\\Hoon Tar Yi\\Desktop\\GuessAnime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_40d25aad0153212299c93685d3f22e0caefe2cef
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Hoon Tar Yi\\Desktop\\GuessAnime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b202f14a25f5d005c20c68f6932d12c04b128636\\classes.dex
+base.1=C\:\\Users\\Hoon Tar Yi\\Desktop\\GuessAnime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b202f14a25f5d005c20c68f6932d12c04b128636
+file.0=C\:\\Users\\Hoon Tar Yi\\Desktop\\GuessAnime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_40d25aad0153212299c93685d3f22e0caefe2cef\\classes.dex
