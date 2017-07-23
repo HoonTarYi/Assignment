@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\.android\build-cache\ed173f4f02e271216e7645a59c24b8dcbb9e51e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4450a001bb26b2016dd884bdf337b3a35bbd0a0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_8fbcfcaceae2c85b28f731fdaf4fb35821e15199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b202f14a25f5d005c20c68f6932d12c04b128636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\.android\build-cache\758e5bfe272bf8ef75af037757f6cf54da7a54fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcac1c8b56583142939d7cc766730e4e9d218288\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\.android\build-cache\68b8a4fb1f5360b5ee25e641665a74738e52540b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf2ce47271cac41bc001ffdf940722e68fa25df2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\.android\build-cache\ebbdf1bf618932ba087cbd8c8ebab10e8e7744aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bdece7c42774880c1c45359484ee8408814ca30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\.android\build-cache\460eb00cc7b93819ea4a51e556a501bd6fe03564\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_148085ca52fa161c1e43d415d44bffe315819d61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cac678b8aefd8ec3195e6f3799c9eec0471b266">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_40d25aad0153212299c93685d3f22e0caefe2cef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\.android\build-cache\370741a37ecaef94c1e72b65d3d4e18d49a532ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b75d86c86c9027de5b6b1a46c7e4cc21e3b429a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\.android\build-cache\d3166cddb0e4282ca436474c42b70c71a2302b35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39c3211de9e2a878aaee6a166d07559d9465853c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\.android\build-cache\57bccbfb127f9e53b8f5e80fceead33cdead3430\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbf35a0420d813f1556e74e86080c4b4debf9633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_4cb6983630d05777a8b44aeee4f66ce2978af108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\.android\build-cache\1d3bbbdea78605d87a343aaa62967c979fa19085\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d88ed9d8fbcead01e14e71ff77877fc3c8717d47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hoon Tar Yi\.android\build-cache\67de5d20125ae723613fe5b6308ca75d37b28d21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Hoon Tar Yi\Desktop\GuessAnime\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0c5fc7a6b0c37e4804d08ed8f1f6e5985b564b6\classes.dex" />
+    </item>
+
+</items>
